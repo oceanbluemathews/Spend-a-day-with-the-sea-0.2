@@ -1,0 +1,107 @@
+.Sunrise{
+    background-image: url("Sunrise.jpg");
+    position:fixed;
+    background-repeat:no-repeat;
+    background-size:auto;
+    width: 100%;
+
+ 
+    color:lemonchiffon;
+    text-align: center;
+    
+ margin: 0; 
+  overflow: hidden; 
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family:monospace;
+  color:lemonchiffon;
+}
+.Foggy{
+    background-image: url("Foggy.jpg");
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    width: 100%;
+
+}
+
+.Shell{
+    background-image: url("Shell_Portal.jpg");
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align:left;
+    width: 100%;
+}
+
+.Midday{
+    background-image: url("Midday.JPG");
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    width: 100%;
+}
+.Sunset{
+     background-image: url("Sunset1.JPEG");
+     position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    width: 100%;
+}
+.Night{
+    background-image: url("Night.jpg");
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    text-align: center;
+    width: 100%;
+
+    color:lemonchiffon;
+}
+a{
+    color:palegoldenrod;
+    text-align: center;
+    font-family:monospace;
+
+}
+.Window{
+position:fixed;
+top:50px;
+left:20px;
+width:200px;
+height:200px;
+z-index: 2;
+}
+
+.Tele{
+    position:fixed;
+top:50px;
+left:20px;
+width:200px;
+height:200px;
+z-index: 2;
+}
+
+.Asleep{
+    position:fixed;
+top:50px;
+left:20px;
+width:200px;
+height:200px;
+z-index: 2;
+}
+#MyVideo{
+ position:relative;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+    z-index: -1;
+}
